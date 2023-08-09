@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Industrial engineering fresh grad
+subtitle: (is trying to) enlarge the bounds of <a href="https://en.wikipedia.org/wiki/New_Atlantis">human empire</a>, to the effecting of all things possible
 
 profile:
   align: right
@@ -18,6 +18,10 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Fawwaz. I'm documenting learning journey and notes in this blog.
+Hi! I'm Fawwaz.
+
+I'm documenting learning journey and notes in this blog.
 
 I believe that we live in a uniquely pivotal slice of time, and that we should make the most of it to ensure humanity's continued existence and ability to do good in our lightcone.
+
+You can see what I'm working on [here](here), and what I'm currently reading [here](here).

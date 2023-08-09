@@ -81,6 +81,12 @@
 
   function mergeFromYMLFrontmatter(target, source) {
     target.title = source.title;
+
+    // Hide posts with the categories 'sample-posts' (bro this doesn't work, why?)
+    // if (source.categories === 'sample-posts') {
+    //   source.published = false;
+    // }
+
     if (source.published) {
       if (source.published instanceof Date) {
         target.publishedDate = source.published;

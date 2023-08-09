@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: faw's blog # the website title (if blank, full name will be used instead)
+title: Faw's Log # the website title (if blank, full name will be used instead)
 first_name: Fawwaz
 # middle_name: R.
 last_name: Anvilen
@@ -133,7 +133,8 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  # enabled: true
+  enabled: false # idk man i don't like the style
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -159,9 +160,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
+# In the future, I'll have to add substack.com here
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections

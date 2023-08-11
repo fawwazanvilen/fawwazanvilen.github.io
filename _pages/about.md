@@ -24,4 +24,4 @@ I'm documenting learning journey and notes in this blog.
 
 I believe that we live in a uniquely pivotal slice of time, and that we should make the most of it to ensure humanity's continued existence and ability to do good in our lightcone.
 
-You can see what I'm working on [here](here), and what I'm currently reading [here](here).
+You can see what I'm working on [here](fawwazanvilen.github.io/projects), and what I'm currently reading [here](here).

@@ -4,7 +4,7 @@
 
 # title: Fawwaz Anvilen # Faw's Log # the website title (if blank, full name will be used instead)
 first_name: Fawwaz
-middle_name: #
+# middle_name: #
 last_name: Anvilen
 email: fawwazanvi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-# title: Fawwaz Anvilen # Faw's Log # the website title (if blank, full name will be used instead)
+title: blank # Faw's Log # the website title (if blank, full name will be used instead)
 first_name: Fawwaz
 # middle_name: #
 last_name: Anvilen

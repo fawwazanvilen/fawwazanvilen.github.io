@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "69382069fa9a1a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ab9b0512787687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434e2497656ec338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fcd84c3c6b126cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "refactoring-jakarta/A Plan for Jakarta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e3e37afdddf015",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f7bb10e903144a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5015b586be8417ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b060859a985d1123",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "793d7fb0f483bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2d491fd857bdda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a10dabf998c2676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bea80719dec3b19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "refactoring-jakarta/A Plan for Jakarta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25e907e502dff0a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "refactoring-jakarta/A Plan for Jakarta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6580c121cb619bc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63acff58028f4d38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "refactoring-jakarta/A Plan for Jakarta.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fcd84c3c6b126cd",
+  "lastOpenFiles": [
+    "index.md",
+    "refactoring-jakarta/A Plan for Jakarta.md",
+    "to-dos.md",
+    "Untitled",
+    "refactoring-jakarta"
+  ]
+}
